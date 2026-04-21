@@ -1,51 +1,49 @@
-# Kayıp Ağı Gizlilik Politikası
+# Kayip Ağı Privacy Policy
 
-Son güncelleme: 21 Nisan 2026
+Last updated: April 21, 2026
 
-Kayıp Ağı, kayıp kişi, hayvan, eşya ve çalıntı kayıtlarını daha hızlı görünür kılmak ve topluluk desteğiyle güvenli iletişim kurmak için geliştirilmiş bir uygulamadır.
+Kayip Ağı is designed to help users publish lost, found, and stolen records, communicate safely, and receive relevant local updates.
 
-## Toplanan Bilgiler
+## Information We May Process
 
-Uygulama aşağıdaki bilgileri işleyebilir:
+The app may process the following categories of data:
 
-- Hesap bilgileri: ad, soyad, profil fotoğrafı
-- Profil bilgileri: şehir, ilçe, gönüllü modu tercihleri
-- İlan bilgileri: başlık, açıklama, kategori, fotoğraf, konum, ayırt edici detaylar
-- İletişim bilgileri: kullanıcı isterse telefon numarası ve WhatsApp tercihi
-- Mesaj ve ihbar içerikleri
-- Bildirim anahtarı ve temel teknik bilgiler
-- Kullanıcı izin verirse yaklaşık konum bilgisi
+- Account information: name, email address, profile photo
+- Profile information: city, district, volunteer mode preferences
+- Report information: title, description, category, photos, location, and identifying details
+- Contact information: optional phone number and WhatsApp preference if provided by the user
+- Messages and tip content shared inside the app
+- Push notification token and basic technical session data
+- Location data, if permission is granted, for nearby records and volunteer alerts
 
-## Bilgiler Ne İçin Kullanılır
+## How We Use This Information
 
-Bu bilgiler şu amaçlarla kullanılabilir:
+We may use this information to:
 
-- Kayıp, buluntu ve çalıntı kayıtlarını yayınlamak
-- Yakındaki kayıtları göstermek
-- İlan sahipleri ile ihbar bırakan kişileri güvenli biçimde buluşturmak
-- Mesajlaşma ve bildirim akışını çalıştırmak
-- Olası eşleşmeleri göstermek
-- Kötüye kullanım ve sahte ilan riskini azaltmak
+- publish and manage lost, found, and stolen records
+- show nearby reports and relevant local activity
+- connect report owners with people who send tips or messages
+- power notifications and in-app messaging
+- generate possible matches between related records
+- reduce abuse, fraud, and unsafe content
 
-## Paylaşım ve Görünürlük
+## Sharing and Visibility
 
-- Tam ad soyad herkese açık şekilde gösterilmez
-- Kullanıcı isterse iletişim bilgisi ekler
-- Gizli ihbarda kimlik bilgisi açık edilmez
-- Hassas kayıt alanları herkese açık görünümde sınırlandırılır
+- Full name and surname are not displayed publicly in full
+- Contact information is only shown if the user chooses to add it
+- Anonymous tips do not reveal the sender's identity to the report owner
+- Sensitive fields are limited in public views where appropriate
 
-## Saklama ve Silme
+## Retention and Deletion
 
-- Kullanıcı, uygulama içindeki hesap silme akışıyla hesabını kaldırabilir
-- Hesap silindiğinde ilişkili profil ve içerikler sistemden kaldırılabilir
+- Users can request deletion by using the in-app account deletion flow
+- When an account is deleted, related profile data and associated content may be removed from the system
 
-## Kullanıcı Hakları
+## User Requests
 
-Kullanıcı destek kanalı üzerinden veriyle ilgili taleplerini iletebilir.
+Users can submit support or privacy-related requests through the support channel listed below.
 
-## İletişim
-
-Destek ve gizlilik talepleri için:
+## Contact
 
 - Support: https://github.com/hzvolkan/kayipagisupport/blob/main/SUPPORT.md
 - Repository: https://github.com/hzvolkan/kayipagisupport

@@ -1,43 +1,43 @@
-# Kayıp Ağı Destek
+# Kayip Ağı Support
 
-Son güncelleme: 21 Nisan 2026
+Last updated: April 21, 2026
 
-Kayıp Ağı ile ilgili destek, geri bildirim ve sorun bildirimleri için bu sayfa kullanılabilir.
+This page is used for support requests, feedback, and issue reporting related to the Kayip Ağı app.
 
-## Destek Başlıkları
+## Common Support Topics
 
-- Hesaba giriş sorunu
-- Profil oluşturma sorunu
-- İlan oluşturma veya düzenleme sorunu
-- Mesajlaşma ve ihbar akışı
-- Bildirim, konum veya izin ayarları
-- Hesap silme talebi
+- Sign-in issues
+- Profile setup issues
+- Report creation or editing issues
+- Messaging and tip flow issues
+- Notification, location, or permission settings
+- Account deletion requests
 
-## Hızlı Yardım
+## Quick Help
 
-### Konum görünmüyorsa
+### If your location is not showing
 
-iPhone Ayarlar > Kayıp Ağı > Konum bölümünden izinleri kontrol et.
+Check iPhone Settings > Kayip Ağı > Location and make sure permission is enabled.
 
-### Bildirim gelmiyorsa
+### If notifications are not arriving
 
-iPhone Ayarlar > Bildirimler > Kayıp Ağı bölümünden bildirimlerin açık olduğundan emin ol.
+Check iPhone Settings > Notifications > Kayip Ağı and make sure notifications are allowed.
 
-### Fotoğraf eklenmiyorsa
+### If you cannot add a photo
 
-iPhone Ayarlar > Kayıp Ağı > Fotoğraflar bölümünden erişim iznini kontrol et.
+Check iPhone Settings > Kayip Ağı > Photos and confirm photo access is granted.
 
-### Hesabını silmek istiyorsan
+### If you want to delete your account
 
-Uygulama içinde Profil ekranındaki `Hesabı Sil` aksiyonunu kullan.
+Use the `Delete Account` action inside the Profile screen in the app.
 
-## İletişim
+## Contact
 
-Destek talepleri için GitHub üzerinden issue açılabilir:
+Support requests can be submitted through GitHub:
 
 - Repository: https://github.com/hzvolkan/kayipagisupport
 - Issues: https://github.com/hzvolkan/kayipagisupport/issues
 
-## Not
+## About the App
 
-Kayıp Ağı, kayıp kişi, hayvan, eşya ve çalıntı kayıtlarını daha hızlı görünür kılmak için geliştirilmiş topluluk odaklı bir uygulamadır.
+Kayip Ağı is a community-focused app designed to help people make lost person, pet, item, and stolen property records more visible and easier to act on.

@@ -1,9 +1,10 @@
-# Kayıp Ağı Support
+# Kayip Ağı Support
 
-Bu depo, Kayıp Ağı uygulamasının destek ve iletişim bilgilerini herkese açık şekilde sunmak için oluşturuldu.
+This repository hosts the public support and privacy documents for the Kayip Ağı iOS app.
 
-- Destek sayfası: [SUPPORT.md](./SUPPORT.md)
-- Uygulama: Kayıp Ağı
+- Support page: [SUPPORT.md](./SUPPORT.md)
+- Privacy Policy: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
+- App name: Kayip Ağı: Bul ve Bildir
 - Platform: iOS
 
-App Store Support URL olarak bu deponun ana sayfası veya `SUPPORT.md` bağlantısı kullanılabilir.
+You can use either this repository root or the direct document links in App Store Connect.
