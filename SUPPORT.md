@@ -37,6 +37,7 @@ Support requests can be submitted through GitHub:
 
 - Repository: https://github.com/hzvolkan/kayipagisupport
 - Issues: https://github.com/hzvolkan/kayipagisupport/issues
+- Email: volkanhaznedaroglu@icloud.com
 
 ## About the App
 

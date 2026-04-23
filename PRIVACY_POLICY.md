@@ -47,3 +47,4 @@ Users can submit support or privacy-related requests through the support channel
 
 - Support: https://github.com/hzvolkan/kayipagisupport/blob/main/SUPPORT.md
 - Repository: https://github.com/hzvolkan/kayipagisupport
+- Email: volkanhaznedaroglu@icloud.com
