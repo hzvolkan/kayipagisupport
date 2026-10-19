@@ -1,44 +1,39 @@
-# Kayip Ağı Support
+# KayıpAğı Yardım Merkezi
 
-Last updated: April 21, 2026
+Son güncelleme: 20 Ekim 2026
 
-This page is used for support requests, feedback, and issue reporting related to the Kayip Ağı app.
+KayıpAğı; kayıp, çalıntı ve bulunan eşya veya evcil hayvan ilanlarını yakındaki kişilerle paylaşmaya yardımcı olur. Uygulama acil durum veya kolluk hizmeti değildir. Acil tehlike varsa 112'yi arayın.
 
-## Common Support Topics
+## Giriş
 
-- Sign-in issues
-- Profile setup issues
-- Report creation or editing issues
-- Messaging and tip flow issues
-- Notification, location, or permission settings
-- Account deletion requests
+Uygulamaya Apple veya Google hesabınla giriş yapabilirsin. Giriş penceresi kapanırsa uygulamaya geri dönüp yeniden dene. Sorun sürerse uygulamanı güncelle ve destek ekibine ekran görüntüsüyle yaz.
 
-## Quick Help
+## İlan oluşturma
 
-### If your location is not showing
+1. Yeni ilan ekranında Kayıp, Çalıntı veya Bulundu türünü seç.
+2. Eşyanın ya da hayvanın adını, kategorisini ve ayırt edici açıklamayı gir.
+3. İstersen tek bir fotoğraf ekle. Fotoğraf telefonundaki sistem seçicisiyle seçilir; ilan fotoğrafı uygulamanın özel depolama alanında saklanır.
+4. Olay yerindeyken konum düğmesine dokun. Uygulama arka planda konumunu izlemez. İlanda açık adres yerine yaklaşık konum gösterilir.
+5. Önizlemeyi kontrol edip ilanı paylaş.
 
-Check iPhone Settings > Kayip Ağı > Location and make sure permission is enabled.
+Gizli doğrulama ayrıntısı ve seri numarası/IMEI gibi alanları herkese açık açıklamaya yazma. Bu özel alanlar ilan kartında gösterilmez.
 
-### If notifications are not arriving
+## İlanlara yanıt verme
 
-Check iPhone Settings > Notifications > Kayip Ağı and make sure notifications are allowed.
+İlan sahibine telefon numarasını görmeden uygulama içi mesaj gönderebilirsin. Buluşma için AVM girişi, belediye veya karakol gibi kamusal bir yer seç; mesajlarda parola, kimlik numarası veya ödeme bilgisi paylaşma.
 
-### If you cannot add a photo
+Uygunsuz ilanı detay ekranından bildir veya ilan sahibini engelle. Kendi ilanını Profil > İlanlarım bölümünden çözüldü olarak işaretleyebilirsin.
 
-Check iPhone Settings > Kayip Ağı > Photos and confirm photo access is granted.
+## Konum ve bildirimler
 
-### If you want to delete your account
+Akışta gösterilen ili Profil > İl seçimi bölümünden değiştirebilirsin. Haritadaki kayıtları görmek için internet bağlantısı gerekir. Konum izni yalnızca ilan oluştururken olay noktasını kaydetmek için istenir; arka plan takibi yoktur.
 
-Use the `Delete Account` action inside the Profile screen in the app.
+Bildirim ve mesafe tercihlerini Profil > Bildirim tercihleri bölümünden yönet. Bildirim gelmiyorsa iPhone Ayarları > Bildirimler > KayıpAğı bölümünü kontrol et.
 
-## Contact
+## Hesabı silme
 
-Support requests can be submitted through GitHub:
+Profil ekranında **Hesabımı sil** seçeneğini kullan. Onaydan sonra profilin, ilanların ve ilan fotoğrafların silinir. Bu işlem geri alınamaz.
 
-- Repository: https://github.com/hzvolkan/kayipagisupport
-- Issues: https://github.com/hzvolkan/kayipagisupport/issues
-- Email: volkanhaznedaroglu@icloud.com
+## Destek
 
-## About the App
-
-Kayip Ağı is a community-focused app designed to help people make lost person, pet, item, and stolen property records more visible and easier to act on.
+Sorun bildirimi veya geri bildirim için [GitHub Issues](https://github.com/hzvolkan/kayipagisupport/issues) üzerinden yazabilir ya da **volkanhaznedaroglu@icloud.com** adresine e-posta gönderebilirsin. Hesap bilgilerini, parolanı veya doğrulama kodlarını mesajında paylaşma.
