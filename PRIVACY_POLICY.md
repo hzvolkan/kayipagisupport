@@ -1,50 +1,36 @@
-# Kayip Ağı Privacy Policy
+# KayıpAğı Gizlilik ve KVKK Bilgilendirme Metni
 
-Last updated: April 21, 2026
+**Son güncelleme:** 20 Ekim 2026  
+**Veri sorumlusu:** Volkan Haznedaroğlu  
+**İletişim:** [volkanhaznedaroglu@icloud.com](mailto:volkanhaznedaroglu@icloud.com)
 
-Kayip Ağı is designed to help users publish lost, found, and stolen records, communicate safely, and receive relevant local updates.
+Bu metin, KayıpAğı'nın mevcut uygulama özelliklerinde hangi bilgileri kullandığını açıklar. Uygulama güncellendikçe metin de güncellenir.
 
-## Information We May Process
+## İşlenen bilgiler ve kullanım amaçları
 
-The app may process the following categories of data:
+- **Hesap bilgileri:** Apple veya Google girişinden gelen sağlayıcı kullanıcı kimliği, ad ve sağlayıcının ilettiği e-posta/profil bilgileri; hesabı oluşturmak ve oturumu yürütmek için kullanılır. Apple, e-posta yerine özel yönlendirme adresi sağlayabilir.
+- **Profil ve tercihler:** uygulama içi adınız, seçtiğiniz il, yakın çevre bildirimi için seçtiğiniz alan, kategori/mesafe tercihleri ve bildirim tercihi; profilinizi ve seçtiğiniz akışı çalıştırmak için kullanılır.
+- **İlan bilgileri:** ilan başlığı, açıklaması, kategori ve türü (kayıp, çalıntı veya bulundu), il, isteğe bağlı fotoğraf, ödül ve özel doğrulama ayrıntısı; ilanı yayımlamak ve kullanıcıların iletişim kurabilmesi için kullanılır. İlanı siz yayımladığınız için başlık, açıklama ve yaklaşık konum diğer kullanıcılara görünür. Özel doğrulama ayrıntısı herkese açık ilanda gösterilmez.
+- **Konum:** cihaz konumu yalnızca siz konum alma işlemini başlattığınızda ve izin verdiğinizde kullanılır. İlan için seçilen olay noktası sunucuda saklanır; harita ve akışta yaklaşık konum gösterilir. Yakın çevre eşleşmesi için ayrıca bölge noktası seçmeniz istenebilir. Arka planda konum takibi yapılmaz.
+- **Mesaj ve güvenlik kayıtları:** uygulama içi mesajlar, ilan/kullanıcı şikâyetleri, engelleme kayıtları ve hesabı kötüye kullanıma karşı korumak için gereken teknik kayıtlar hizmetin güvenli çalışması için işlenir.
+- **Bildirim bilgileri:** bildirim iznini açıp yakın çevre bildirimlerini etkinleştirirseniz cihazın push belirteci ve seçtiğiniz bildirim tercihleri bildirim göndermek için kullanılır. Bildirimleri cihaz ayarlarından veya uygulama içindeki tercihlerden kapatabilirsiniz.
 
-- Account information: name, email address, profile photo
-- Profile information: city, district, volunteer mode preferences
-- Report information: title, description, category, photos, location, and identifying details
-- Contact information: optional phone number and WhatsApp preference if provided by the user
-- Messages and tip content shared inside the app
-- Push notification token and basic technical session data
-- Location data, if permission is granted, for nearby records and volunteer alerts
+Uygulama telefon numarası veya WhatsApp bilgisi istemez. Uygulama içi mesajlar hizmet sunucusunda saklanır; uçtan uca şifreli değildir.
 
-## How We Use This Information
+## Hizmet sağlayıcıları ve yurt dışı aktarım
 
-We may use this information to:
+Hesap doğrulaması Apple veya Google ile yapılır. Hesap, ilan, mesaj, fotoğraf ve konum verileri Supabase üzerinde işlenir. KayıpAğı'nın bağlı Supabase projesi **Oceania (Sydney), Avustralya** veri bölgesindedir. Push bildirimleri için Expo Push Service ile Apple/Google bildirim altyapısı kullanılabilir. Hizmet sağlayıcıların güncel alt işleyen bilgileri [Supabase Subprocessor List](https://supabase.com/legal/customer-resources/subprocessor-list) sayfasında yer alır.
 
-- publish and manage lost, found, and stolen records
-- show nearby reports and relevant local activity
-- connect report owners with people who send tips or messages
-- power notifications and in-app messaging
-- generate possible matches between related records
-- reduce abuse, fraud, and unsafe content
+**Açık durum:** Supabase'in Sydney bölgesine veri aktarımı için Türkiye'de uygulanması gereken KVKK m. 9 mekanizması ve varsa Kuruma bildirim yükümlülüğünün tamamlanıp tamamlanmadığı henüz doğrulanmamıştır. Bu metin aktarımın hukuka uygun olduğuna dair teyit değildir. Bu konu için inceleme sürmektedir.
 
-## Sharing and Visibility
+## Saklama ve silme
 
-- Full name and surname are not displayed publicly in full
-- Contact information is only shown if the user chooses to add it
-- Anonymous tips do not reveal the sender's identity to the report owner
-- Sensitive fields are limited in public views where appropriate
+Aktif ilanlar varsayılan olarak 30 gün sonra süresi dolmuş duruma geçer ve aktif akıştan çıkar. İlanın süresinin dolması kaydın sunucudan hemen silindiği anlamına gelmez. Profil ekranındaki **Hesabımı sil** adımı hesabı ve uygulamaya bağlı kayıtları silmek için kullanılır. Hizmet sağlayıcıların yedekleri ve teknik güvenlik kayıtları kendi saklama/silme döngülerine tabi olabilir.
 
-## Retention and Deletion
+## Haklar ve başvuru
 
-- Users can request deletion by using the in-app account deletion flow
-- When an account is deleted, related profile data and associated content may be removed from the system
+Kişisel verilerinizle ilgili sorular veya KVKK kapsamındaki başvurular için [volkanhaznedaroglu@icloud.com](mailto:volkanhaznedaroglu@icloud.com) adresine yazabilirsiniz. Başvurunuzu değerlendirmek için gerekli bilgiler dışında parola veya doğrulama kodu göndermeyin. Başvurular yürürlükteki mevzuata göre değerlendirilir.
 
-## User Requests
+## Güncellemeler
 
-Users can submit support or privacy-related requests through the support channel listed below.
-
-## Contact
-
-- Support: https://github.com/hzvolkan/kayipagisupport/blob/main/SUPPORT.md
-- Repository: https://github.com/hzvolkan/kayipagisupport
-- Email: volkanhaznedaroglu@icloud.com
+Veri uygulamalarında veya uygulama özelliklerinde değişiklik olursa bu metin güncellenir. Güncel sürüm bu sayfada yayımlanır.
