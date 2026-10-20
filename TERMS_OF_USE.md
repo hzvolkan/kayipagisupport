@@ -16,6 +16,8 @@ KayıpAğı acil durum, kolluk, kurtarma veya eşya teslim hizmeti değildir. Bi
 
 Hesabınızın güvenliğini koruyun ve yalnızca paylaşma hakkınız olan ilan, mesaj ve fotoğrafları gönderin. İlan açıklamasının diğer kullanıcılara görünebileceğini varsayın. Başka kişilerin telefon numarası, ev adresi, kimlik/kart bilgisi veya benzeri hassas bilgilerini izinsiz yayımlamayın. Özel doğrulama ayrıntılarını herkese açık açıklamaya yazmayın.
 
+İçeriğinizin sahibi siz olarak kalırsınız. İlan, mesaj ve fotoğraflarınızı KayıpAğı'na gönderdiğinizde; bunları hizmeti işletmek, diğer kullanıcılara göstermek, yedeklemek ve kötüye kullanımı incelemek için saklama, çoğaltma ve uygulama içinde gösterme konusunda KayıpAğı'na dünya çapında, münhasır olmayan, telifsiz ve bu amaçlarla sınırlı bir kullanım izni verirsiniz. İçeriği silmeniz veya hesabınızı kapatmanızla bu izin sona erer; teknik yedeklerde veya yasal yükümlülük nedeniyle tutulması gereken kopyalar, ilgili saklama süresi boyunca kalabilir. İçeriğiniz uygulama dışı tanıtım amacıyla kullanılmaz.
+
 Dolandırıcılık, tehdit, taciz, yasa dışı içerik, başkasının kişisel verisini izinsiz paylaşma ve hizmeti bozma yasaktır. Uygunsuz ilanı veya kullanıcıyı bildirebilir ve kullanıcıları engelleyebilirsiniz. Güvenlik ya da yasal gereklilik durumunda ilan veya hesap kısıtlanabilir.
 
 ## Konum, ilan ve bildirimler
