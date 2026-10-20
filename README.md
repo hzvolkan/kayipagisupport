@@ -1,10 +1,8 @@
-# Kayip Ağı Support
+# KayıpAğı Support
 
-This repository hosts the public support and privacy documents for the Kayip Ağı iOS app.
+This repository hosts the public support and privacy documents for the KayıpAğı iOS app.
 
 - Support page: [SUPPORT.md](./SUPPORT.md)
-- Privacy Policy: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
-- App name: Kayip Ağı: Bul ve Bildir
+- Privacy and KVKK information: [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
+- Terms of use: [TERMS_OF_USE.md](./TERMS_OF_USE.md)
 - Platform: iOS
-
-You can use either this repository root or the direct document links in App Store Connect.
